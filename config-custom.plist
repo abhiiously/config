@@ -1265,11 +1265,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>{{BOARD_SERIAL}}</string>
+			<string>C02043102GU0000JA</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<string>{{ROM}}</string>
+			<string>d04f7e2cadc8</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1277,9 +1277,9 @@
 			<key>SystemProductName</key>
 			<string>{{DEVICE_MODEL}}</string>
 			<key>SystemSerialNumber</key>
-			<string>{{SERIAL}}</string>
+			<string>C02DL0WY046M</string>
 			<key>SystemUUID</key>
-			<string>{{UUID}}</string>
+			<string>63D28822-6B23-496C-A5C8-0E2332E35A46</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
